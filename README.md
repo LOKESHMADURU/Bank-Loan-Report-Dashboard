@@ -14,8 +14,6 @@ A clean, interactive Excel dashboard to analyze bank loan performance using **Pi
 - **Average DTI:** **13.33%**
 - **Good vs Bad Loans:** **86.18%** good · **13.82%** bad
 
-> Note: Replace the above numbers with your latest refresh if your dataset changes.
-
 ## 🗂️ Data Model (Excel)
 Single flat table of loan records with columns such as:
 `issue_date`, `loan_status`, `funded_amount`, `amount_received`, `interest_rate`, `dti`, `term`, `grade`, `emp_length`, `purpose`, `state`, `home_ownership`.
